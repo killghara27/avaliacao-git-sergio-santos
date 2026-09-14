@@ -4,4 +4,6 @@ tarefa 2:
     criar uma branch
 tarefa 3:
     entrega do projeto
-          
+tarefa 4
+    acrescentar nova tarefa para novo commit
+              
