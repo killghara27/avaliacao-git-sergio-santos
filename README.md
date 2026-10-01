@@ -69,6 +69,8 @@ SELECT * FROM jogador;
 
 O ficheiro principal do projeto é o `videojogoonline.sql`.
 
+Para executar as consultas, recomenda-se utilizar o **MySQL Workbench**.
+
 ## 📋 Tarefas
 
 ### Estado do projeto
@@ -91,7 +93,24 @@ O projeto utiliza o **MySQL** como sistema de gestão de bases de dados.
 * [Site oficial do MySQL](https://www.mysql.com/)
 * [GitHub](https://github.com/)
 
-Para executar as consultas, recomenda-se utilizar o **MySQL Workbench**.
+## 👥 Autores
+
+Projeto desenvolvido no âmbito da formação em **Técnico de Desenvolvimento de Software**.
+Desenvolvido na UC02830.
+
+###Contribuidores:
+*Fábio Tojeira
+*Renata Corrêa
+*Sérgio Santos
+
+**Projeto:** ECLIPSE: Guardiões das Trevas
+**Base de dados:** `videojogoonline`
+**Área:** Bases de Dados / SQL
+
+---
+
+*Projeto desenvolvido para aprendizagem e aplicação prática de conceitos de SQL e bases de dados relacionais.*
+
 
 
 
