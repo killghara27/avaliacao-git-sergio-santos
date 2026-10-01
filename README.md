@@ -83,5 +83,28 @@ O ficheiro principal do projeto é o `videojogoonline.sql`.
 * [ ] Adicionar mais itens e mascotes.
 * [ ] Melhorar e expandir as consultas.
 
+## 📋 Tarefas
+
+### Estado do projeto
+
+* [x] Criar a base de dados.
+* [x] Criar as tabelas principais.
+* [x] Definir chaves primárias.
+* [x] Definir chaves estrangeiras.
+* [x] Inserir dados de teste.
+* [x] Criar consultas SQL.
+* [ ] Adicionar novas quests.
+* [ ] Adicionar mais itens e mascotes.
+* [ ] Melhorar e expandir as consultas.
+
+## 🔗 Recursos
+
+O projeto utiliza o **MySQL** como sistema de gestão de bases de dados.
+
+* [Site oficial do MySQL](https://www.mysql.com/)
+* [GitHub](https://github.com/)
+
+Para executar as consultas, recomenda-se utilizar o **MySQL Workbench**.
+
 
 
