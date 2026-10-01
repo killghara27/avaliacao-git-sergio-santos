@@ -36,3 +36,37 @@ A base de dados é constituída por várias tabelas relacionadas entre si:
 
 > **Nota importante:** As relações entre as tabelas são fundamentais para garantir a integridade e consistência dos dados.
 
+
+
+## 💾 Instalação
+
+Para utilizar o projeto localmente, é necessário ter o MySQL e o MySQL Workbench instalados.
+
+1. Instalar o **MySQL**.
+2. Instalar o **MySQL Workbench**.
+3. Criar uma nova base de dados.
+4. Executar o ficheiro `videojogoonline.sql`.
+5. Confirmar que todas as tabelas foram criadas corretamente.
+6. Executar as consultas SQL para testar a base de dados.
+
+Exemplo de criação da base de dados:
+
+```sql
+CREATE DATABASE videojogoonline;
+
+USE videojogoonline;
+
+CREATE TABLE jogador ( 
+    idjogador INT PRIMARY KEY AUTO_INCREMENT, 
+    nome VARCHAR(100), 
+    idade INT, 
+    nacionalidade VARCHAR(100), 
+    email VARCHAR(100) 
+);
+
+SELECT * FROM jogador;
+```
+
+O ficheiro principal do projeto é o `videojogoonline.sql`.
+
+
