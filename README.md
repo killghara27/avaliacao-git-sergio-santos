@@ -83,19 +83,6 @@ O ficheiro principal do projeto é o `videojogoonline.sql`.
 * [ ] Adicionar mais itens e mascotes.
 * [ ] Melhorar e expandir as consultas.
 
-## 📋 Tarefas
-
-### Estado do projeto
-
-* [x] Criar a base de dados.
-* [x] Criar as tabelas principais.
-* [x] Definir chaves primárias.
-* [x] Definir chaves estrangeiras.
-* [x] Inserir dados de teste.
-* [x] Criar consultas SQL.
-* [ ] Adicionar novas quests.
-* [ ] Adicionar mais itens e mascotes.
-* [ ] Melhorar e expandir as consultas.
 
 ## 🔗 Recursos
 
