@@ -12,4 +12,12 @@
 * Diferentes classes de personagens, como Guerreiro, Xamã, Sura e Fada.
 * Consultas SQL para pesquisa e análise dos dados.
 
+## 🛠️ Tecnologias
+
+|    Tecnologia   |  Versão  |
+| :-------------: | :------: |
+|      MySQL      |    8.0   |
+| MySQL Workbench |    8.0   |
+|       SQL       | Standard |
+|      GitHub     |   Atual  |
 
