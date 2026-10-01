@@ -21,3 +21,18 @@
 |       SQL       | Standard |
 |      GitHub     |   Atual  |
 
+### Estrutura da Base de Dados
+
+A base de dados é constituída por várias tabelas relacionadas entre si:
+
+* `jogador` — guarda a informação dos jogadores.
+* `personagem` — guarda as personagens associadas aos jogadores.
+* `item` — contém os itens disponíveis no jogo.
+* `bolsinha` — relaciona os itens com as personagens.
+* `quest` — contém as missões e respetivas recompensas.
+* `guild` — contém as guilds.
+* `mascote` — contém as mascotes.
+* `loja` — contém os itens e mascotes que podem se adquiridos pelo personagem.
+
+> **Nota importante:** As relações entre as tabelas são fundamentais para garantir a integridade e consistência dos dados.
+
