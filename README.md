@@ -96,15 +96,18 @@ O projeto utiliza o **MySQL** como sistema de gestão de bases de dados.
 ## 👥 Autores
 
 Projeto desenvolvido no âmbito da formação em **Técnico de Desenvolvimento de Software**.
-Desenvolvido na UC02830.
+Desenvolvido na **UC02830**.
 
-###Contribuidores:
-*Fábio Tojeira
-*Renata Corrêa
-*Sérgio Santos
+### Contribuidores
+
+* Fábio Tojeira
+* Renata Corrêa
+* Sérgio Santos
 
 **Projeto:** ECLIPSE: Guardiões das Trevas
+
 **Base de dados:** `videojogoonline`
+
 **Área:** Bases de Dados / SQL
 
 ---
